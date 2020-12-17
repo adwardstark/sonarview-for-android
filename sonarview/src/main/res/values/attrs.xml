@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SonarView">
+        <attr name="sonarColor" format="color"/>
+        <attr name="sonarTailColor" format="color"/>
+        <attr name="sonarCircleColor" format="color"/>
+        <attr name="sonarCircleStrokeWidth" format="float"/>
+    </declare-styleable>
+</resources>

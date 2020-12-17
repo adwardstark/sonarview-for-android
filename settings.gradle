@@ -1,0 +1,3 @@
+include ':sonarview'
+include ':app'
+rootProject.name = "Sonarview-for-android"
